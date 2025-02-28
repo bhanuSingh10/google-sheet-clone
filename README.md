@@ -39,7 +39,7 @@ Ensure you have the following installed:
 ### 🟢 Setup (without Docker):
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/bhanusingh10/Google-Docs-Clone.git
+   git clone https://github.com/bhanusingh10/google-sheet-clone.git
    ```
 2. **Navigate to the server directory**
    ```bash
