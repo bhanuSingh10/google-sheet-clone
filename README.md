@@ -1,7 +1,7 @@
-# Google Docs Clone
+# Google sheet Clone
 
 ## ⭐ Introduction
-This project is a clone of **Google Docs**, designed to provide a collaborative document editing experience similar to Google Docs. It allows multiple users to create, edit, and collaborate on documents in real-time.
+This project is a clone of **Google Sheet**, designed to provide a collaborative document editing experience similar to Google sheet. It allows multiple users to create, edit, and collaborate on documents in real-time.
 
 ## 🟢 Features
 - **Document Creation and Storage**: Users can create new documents and store them securely in the database.
@@ -54,7 +54,7 @@ Ensure you have the following installed:
    yarn install
    ```
 4. **Set up environment variables**
-   - Create a new file named `.env` inside `Google-Docs-Clone/server`.
+   - Create a new file named `.env` inside `Google-sheet-Clone/server`.
    - Add the following variables:
      ```env
      DATABASE_URL=<your_mongodb_connection_url>
@@ -75,7 +75,7 @@ Ensure you have the following installed:
    npm install
    ```
 8. **Set up client environment variables**
-   - Create a new file named `.env` inside `Google-Docs-Clone/client`.
+   - Create a new file named `.env` inside `Google-sheet-Clone/client`.
    - Add the following variable:
      ```env
      VITE_SERVER_URL=http://localhost:3000
